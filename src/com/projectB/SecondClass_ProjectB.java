@@ -11,6 +11,8 @@ public class SecondClass_ProjectB {
 		int a = 10, b = 20;
 		
 		System.out.println("The sum of A and B is "+ a+b);
+		
+		System.out.println("Print statement from master branch");
 
 		
 
