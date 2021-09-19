@@ -13,6 +13,8 @@ public class SecondClass_ProjectB {
 		System.out.println("The sum of A and B is "+ a+b);
 		
 		System.out.println("Print statement from feature branch");
+		
+		System.out.println("Print statement from master branch");
 
 		
 
